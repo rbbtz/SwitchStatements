@@ -1,0 +1,12 @@
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.deps.json
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.runtimeconfig.json
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.runtimeconfig.dev.json
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.dll
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.pdb
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.csprojAssemblyReference.cache
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.AssemblyInfoInputs.cache
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.AssemblyInfo.cs
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.dll
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.pdb
+/Users/Cerebro/repos/SwitchStatements/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.genruntimeconfig.cache
